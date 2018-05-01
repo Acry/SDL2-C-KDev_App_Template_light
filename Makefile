@@ -12,9 +12,13 @@ all: template
 
 template: cp_files tar_files compress
 
-cp_files:
-	 cp -r assets temp
-	 cp -r src temp
+dirs:
+	mkdir -p temp/assets
+	mkdir -p temp/src
+
+cp_files: dirs
+	 cp -r assets/* temp/assets
+	 cp src/* temp/src
 	 cp template/* temp
 
 tar_files: cp_files
