@@ -27,7 +27,9 @@ tar_files: cp_files
 compress: cp_files tar_files
 	bzip2 -z --force temp/make_sdl2_light_c.tar
 
+.PHONY: install
 install: template
+	mkdir -p /home/$(USER)/.local/share/kdevappwizard/templates
 	cp temp/make_sdl2_light_c.tar.bz2 /home/$(USER)/.local/share/kdevappwizard/templates
 
 test:	$(srcdir)helper.c $(srcdir)main.c
