@@ -20,6 +20,6 @@ In case you want to compile the code use:
 
 Thanks to the Kdev and SDL Team!
 
-[Link to this repository.](https://github.com/Acry/SDL2-C-KDev_App_Template)
-
+[Link to this repository.](https://github.com/Acry/SDL2-C-KDev_App_Template)  
+[More Example Code](https://gist.github.com/Acry/baa861b8e370c6eddbb18519c487d9d8)  
 [Get in touch on SDL-Discourse](https://discourse.libsdl.org/u/Acry/summary)
