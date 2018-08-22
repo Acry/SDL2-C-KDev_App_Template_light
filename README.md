@@ -26,7 +26,7 @@ In case you want to compile the code use:
 Thanks to the Kdev and SDL Team!
 
 **Useful links:**  
-[Link to this repository.](https://github.com/Acry/SDL2-C-KDev_App_Template)   | [SDL2-C-Tutorials](https://acry.github.io/) | [SDL2](https://www.libsdl.org/) | [SDL-Discourse](https://discourse.libsdl.org)  
+[Link to this repository.](https://github.com/Acry/SDL2-C-KDev_App_Template) | [SDL2-C-Tutorials](https://acry.github.io/) | [SDL2](https://www.libsdl.org/) | [SDL-Discourse](https://discourse.libsdl.org)  
 
 **Assets:**  
 Fonts:  
