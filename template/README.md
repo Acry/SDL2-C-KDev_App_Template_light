@@ -11,11 +11,11 @@ This is a small SDL2 Demo and it does demonstrate how...
   * to set up a window and a renderer
   * to load and render texture with dest rect
 
+**Screenshot:**  
+![Screenshot](./screenshot.png)  
+
 **Useful links:**  
 [SDL2-C-Tutorials](https://acry.github.io/) | [SDL2](https://www.libsdl.org/) | [SDL-Discourse](https://discourse.libsdl.org)  
-
-**Screenshot:**  
-![Screenshot](./screenshot.png)
 
 **Assets:**  
 Fonts:  
