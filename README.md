@@ -1,4 +1,9 @@
+KDev Light Template
+===================
+
 This is a light C-SDL-GNU Make Template for [KDevelop](https://www.kdevelop.org/)
+
+[Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.  
 
 You can apply your changes and simply invoke `make` to create the template.  
 
@@ -20,6 +25,13 @@ In case you want to compile the code use:
 
 Thanks to the Kdev and SDL Team!
 
-[Link to this repository.](https://github.com/Acry/SDL2-C-KDev_App_Template)  
-[More Example Code](https://gist.github.com/Acry/baa861b8e370c6eddbb18519c487d9d8)  
+**Useful links:**  
+[Link to this repository.](https://github.com/Acry/SDL2-C-KDev_App_Template)   | [SDL2-C-Tutorials](https://acry.github.io/) | [SDL2](https://www.libsdl.org/) | [SDL-Discourse](https://discourse.libsdl.org)  
+
+**Assets:**  
+Fonts:  
+[NimbusSanL-Regular](https://fontlibrary.org/en/font/nimbus-sans-l)  
+[Iconfont](https://fontawesome.com)
+
+**Contact**
 [Get in touch on SDL-Discourse](https://discourse.libsdl.org/u/Acry/summary)
